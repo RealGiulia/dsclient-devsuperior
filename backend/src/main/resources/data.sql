@@ -6,4 +6,5 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Steve V
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Eddie Van Halen', '5512223334', 36000.0,  TIMESTAMP WITH TIME ZONE '1955-01-26T10:00:00Z', 1);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Barack Obama', '87422233350', 45000.0,  TIMESTAMP WITH TIME ZONE '1961-08-04T10:00:00Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joe Biden', '33333333333', 45000.0,  TIMESTAMP WITH TIME ZONE '1942-11-20T10:00:00Z', 4);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Theresa Maye', '1118223334', 25000.0,  TIMESTAMP WITH TIME ZONE '1946-10-01T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Angus Young', '1109223334', 65000.0,  TIMESTAMP WITH TIME ZONE '1955-03-31T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Theresa May', '1118223334', 25000.0,  TIMESTAMP WITH TIME ZONE '1946-10-01T10:00:00Z', 0);
